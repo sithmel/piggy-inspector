@@ -1,0 +1,22 @@
+.graph{
+  /*background: #888888;*/
+}
+
+.line {
+  fill: none;
+  stroke: #FDBB30;
+  stroke-width: 2;
+}
+
+.dot{
+  fill: #fb8c33;
+}
+
+/*.info {
+  opacity: 0;
+  transition: opacity 200ms ease;
+}
+
+.info--active{
+  opacity: 1;
+}*/
